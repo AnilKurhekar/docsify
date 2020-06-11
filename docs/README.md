@@ -1,6 +1,6 @@
-# docsify-cli
+# IoT Devices 
 sample
-## Links
+## Links(sample)
 * [docsify](https://github.com/QingWei-Li/docsify)
 
 ## Installation
