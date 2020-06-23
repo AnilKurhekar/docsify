@@ -45,10 +45,11 @@ Pre-requisites
 
 sample image
 -------------
+<img src="_images/Alerts1.png" height="400" alt="sample"/> 
+
 
 ![sample image](_images/Alerts1.png 'sample image')
 
-<img src="_images/Alerts1.png" height="400" alt="sample"/> 
 
 Getting Started
 ---------------
