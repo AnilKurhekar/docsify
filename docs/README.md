@@ -43,12 +43,12 @@ Pre-requisites
 - Android Build Tools v28.0.3
 - Android Support Repository
 
-Screenshots
+sample image
 -------------
 
 ![sample image](_images/Alerts1.png 'sample image')
 
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> 
+<img src="_images/Alerts1.png" height="400" alt="sample"/> 
 
 Getting Started
 ---------------
