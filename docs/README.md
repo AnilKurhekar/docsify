@@ -46,6 +46,8 @@ Pre-requisites
 Screenshots
 -------------
 
+![sample image](_images/Alerts1.png 'sample image')
+
 <img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> 
 
 Getting Started
