@@ -90,8 +90,9 @@ npm i docsify-cli -g
 Use `init` to generate your docs.
 
 ```json
- 
- android {
+apply plugin: 'com.android.application'
+
+android {
     compileSdkVersion 28
 
     defaultConfig {
@@ -104,5 +105,14 @@ Use `init` to generate your docs.
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+} 
+
 ```
 
