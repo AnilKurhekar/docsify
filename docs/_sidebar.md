@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](2nd page.md)
+* [Page3](page3.md)
