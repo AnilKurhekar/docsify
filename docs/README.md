@@ -88,3 +88,21 @@ npm i docsify-cli -g
 ### `init` command
 
 Use `init` to generate your docs.
+
+```json
+ 
+ android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.example.android.shortcutsample"
+        minSdkVersion 25
+        targetSdkVersion 28
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+```
+
