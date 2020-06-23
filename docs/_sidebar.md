@@ -1,2 +1,2 @@
 * [Home](/)
-* [Page3](page3.md)
+* [Page3](page3.md "PageTitle")
