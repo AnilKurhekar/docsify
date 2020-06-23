@@ -65,7 +65,7 @@ https://github.com/android/user-interface
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-# [2nd page](https://github.com/AnilKurhekar/docsify/blob/master/docs/2nd%20page.md)
+# [2nd page](https://anilkurhekar.github.io/docsify/#/2nd%20page.md)
 
 # sample heading 
 sample
